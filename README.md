@@ -1,6 +1,6 @@
 ### Olá sou GRodama 👋
 
-- 🔭 Hoje trabalho com suporte técnico 
+- 🔭 Hoje trabalho como Desenvolvedor IOS & Android
 - 🌱 Estou estudando Desenvolvimento Android
 - 😄 Ele/Dele
 <div align="center">
